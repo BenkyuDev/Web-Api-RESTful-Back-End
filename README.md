@@ -8,12 +8,9 @@ Siga las instrucciones para poder correr el proyecto en su maquina local.
 
 ### Prerrequisitos de Instalación 
 
-```
-NPM debe estar instalado. Para instalar NPM [Vea aquí](https://www.npmjs.com/get-npm)
-```
-```
-se debe tener instalado Node. Para instalar Node [Vea aquí](https://howtonode.org/how-to-install-nodejs)
-```
+NPM debe estar instalado. Para instalar NPM [Vea aquí.](https://www.npmjs.com/get-npm)
+
+Se debe tener instalado Node. Para instalar Node [Vea aquí.](https://howtonode.org/how-to-install-nodejs)
 
 ### Despliegue en el servidor
 
